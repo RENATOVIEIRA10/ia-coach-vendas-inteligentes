@@ -6,7 +6,7 @@ Plugin `mattpocock-skills`, configurado por `setup-matt-pocock-skills` em 25/09/
 
 ### Issue tracker
 
-GSD em `.planning/` + Cockpit; sem GitHub Issues nem `.scratch/`. See `docs/agents/issue-tracker.md`.
+GSD em `.planning/` e documentacao versionada, sem Cockpit operacional. Sem GitHub Issues nem `.scratch/` como tracker neste repositorio. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 

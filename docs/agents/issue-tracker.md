@@ -1,6 +1,6 @@
 # Issue tracker: GSD (`.planning/`)
 
-O trabalho deste repo é rastreado pelo GSD em `.planning/` (`ROADMAP.md`, `STATE.md`, `phases/`, todos e backlog). Tarefas operacionais, decisões e evidências ficam no Cockpit (`cockpit_get_context(project=<slug>)`). Não há GitHub Issues nem `.scratch/` como tracker.
+O trabalho deste repo é rastreado pelo GSD em `.planning/` (`ROADMAP.md`, `STATE.md`, `phases/`, todos e backlog). Tarefas operacionais, decisões e evidências ficam no planejamento e na documentação versionada do projeto. O Cockpit foi descontinuado em 19/10/2026. Não há GitHub Issues nem `.scratch/` como tracker.
 
 ## Quando uma skill disser "publish to the issue tracker"
 
